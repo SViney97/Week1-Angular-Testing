@@ -1,4 +1,7 @@
 # Testingapp1
+ng test - to execute
+![week1testing](https://user-images.githubusercontent.com/58524678/110379730-194a3f00-804f-11eb-9a43-2319618bf169.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
